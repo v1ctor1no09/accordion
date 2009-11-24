@@ -4,3 +4,5 @@
 = Introduction =
 
 A Mac version is in development.
+
+http://accordion.googlecode.com/files/Accordion-screenshot.png
