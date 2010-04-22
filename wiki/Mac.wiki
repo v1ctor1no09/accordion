@@ -3,6 +3,6 @@
 
 = Introduction =
 
-A Mac version is in development.
+A Mac version has been released.
 
 http://accordion.googlecode.com/files/Accordion-screenshot.png
