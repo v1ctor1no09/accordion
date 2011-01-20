@@ -6,3 +6,6 @@
 A Mac version has been released.
 
 http://accordion.googlecode.com/files/Accordion-screenshot.png
+
+== Playing ==
+Hold the keyboard facing away from you with the Esc button at the top. Play the keys, waggling the space bar as it were the bellows. The escape key, the control key and the alt key may also be used as the bellows. If you don't know how to play button accordion, see http://info.melodeon.net.
