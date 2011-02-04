@@ -9,3 +9,6 @@ http://accordion.googlecode.com/files/Accordion-screenshot.png
 
 == Playing ==
 Hold the keyboard facing away from you with the Esc button at the top. Play the keys, waggling the space bar as it were the bellows. The escape key, the control key and the alt key may also be used as the bellows. If you don't know how to play button accordion, see http://info.melodeon.net.
+
+== Donate ==
+[https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TZNQZU88LDRAY&lc=GB&item_name=Accordion&item_number=mac&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted https://www.paypal.com/en_GB/i/btn/btn_donate_LG.gif]
