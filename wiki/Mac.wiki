@@ -3,9 +3,12 @@
 
 = Introduction =
 
-A Mac version has been released.
+Accordion emulation written in C. Uses Mac keyboard and space bar to emulate a three row button accordion. There is a choice of midi instruments and keys.A Mac version has been released.
 
 http://accordion.googlecode.com/files/Accordion-screenshot.png
+
+  * Keys: F/Bb/Eb, G/C/F, A/D/G, C#/D/G, B/C/C#
+  * Intruments: Standard midi set, defaults to accordion
 
 == Playing ==
 Hold the keyboard facing away from you with the Esc button at the top. Play the keys, waggling the space bar as it were the bellows. The escape key, the control key and the alt key may also be used as the bellows. If you don't know how to play button accordion, see http://info.melodeon.net.
