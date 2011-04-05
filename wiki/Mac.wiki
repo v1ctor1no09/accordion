@@ -17,3 +17,7 @@ The latest Mac version includes bass on the function keys, but I discovered whil
 
 == Donate ==
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TZNQZU88LDRAY&lc=GB&item_name=Accordion&item_number=mac&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted https://www.paypal.com/en_GB/i/btn/btn_donate_LG.gif]
+
+== Downloads ==
+
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml" up_projectName="accordion" border="0"/>
