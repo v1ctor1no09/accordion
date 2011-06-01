@@ -16,6 +16,8 @@ Hold the keyboard facing away from you with the Esc button at the top. Play the 
 The latest Mac version includes bass on the function keys, but I discovered while testing on a Macbook that there not a lot of point because all the keys appear to have hard coded functions assigned to them. And the display is in the way.
 
 == Donate ==
+If you like this, please make a donation.
+
 [https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TZNQZU88LDRAY&lc=GB&item_name=Accordion&item_number=mac&currency_code=GBP&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted https://www.paypal.com/en_GB/i/btn/btn_donate_LG.gif]
 
 == Downloads ==
