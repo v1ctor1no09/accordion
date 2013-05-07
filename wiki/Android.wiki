@@ -7,3 +7,6 @@ An Android version is in development. It may also be found on [https://github.co
 
 http://accordion.googlecode.com/svn/wiki/images/Accordion.png
 http://accordion.googlecode.com/svn/wiki/images/Accordion-settings.png
+
+  * Keys: F/Bb/Eb, G/C/F, A/D/G, C#/D/G, B/C/C#, C System, B System
+  * Instruments: Standard midi set, defaults to accordion
