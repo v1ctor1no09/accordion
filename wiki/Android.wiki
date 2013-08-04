@@ -3,7 +3,7 @@
 
 = Introduction =
 
-An Android accordion emulator. Emulates a three row diatonic and continental chromatic accordion. There is a choice of midi intruments and keys, including C System and B System. It may also be found on [https://github.com/billthefarmer/accordion Github].
+An Android accordion emulator. Emulates a three row diatonic and continental chromatic accordion. There is a choice of midi intruments and keys, including C System and B System. It may also be found on [https://github.com/billthefarmer/accordion Github]. The app is now on [https://f-droid.org/repository/browse/?fdid=org.billthefarmer.accordion F-Droid].
 
 http://accordion.googlecode.com/svn/wiki/images/Accordion.png
 http://accordion.googlecode.com/svn/wiki/images/Accordion-25button.png
